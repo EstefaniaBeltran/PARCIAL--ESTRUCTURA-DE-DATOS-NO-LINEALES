@@ -1,16 +1,8 @@
-Claro Yeimy 😊.
-Normalmente cuando un profesor pide un **README** en un parcial o proyecto de programación, lo que quiere es **un archivo que explique el proyecto y cómo usar el código**. Te dejo uno **listo para copiar** en tu archivo **README.md o README.txt**. Está escrito **como estudiante**, claro y completo.
-
----
-
-# README – Parcial Estructuras de Datos No Lineales
+# Parcial Estructuras de Datos No Lineales
 
 **Estudiante:** Yeimy Estefanía Beltrán Sandoval
 **Universidad:** Universidad Sergio Arboleda
-**Asignatura:** Estructuras de Datos
-**Fecha:** 2026
-
----
+**Asignatura:** Estructuras de Datos No Lineales
 
 # Descripción del proyecto
 
